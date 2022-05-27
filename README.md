@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumanta Paikaray</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Apollo-GraphQL, DBA**
+- 🌱 I’m currently learning **Apollo-GraphQL, React Native**
 
 - 💬 Ask me about **React, GraphQL**
 
